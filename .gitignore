@@ -2,3 +2,5 @@
 HW*.zip
 *data*
 *.csv
+*.json
+*runs*
