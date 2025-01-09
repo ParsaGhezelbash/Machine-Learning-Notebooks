@@ -4,3 +4,4 @@ HW*.zip
 *.csv
 *.json
 *runs*
+*.tsv
